@@ -23,7 +23,7 @@ Para usar el programa, simplemente ejecute el archivo `Prueba formativa 3.py` en
 Python 3.x
 Desarrolladores
 Guisela Herranz
-Samuel Parra
+Javier Paredes
 Versión
 1.1
 
